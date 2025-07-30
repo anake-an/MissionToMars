@@ -1,0 +1,19 @@
+# Visual Studio
+.vs/
+x64/
+*.exe
+*.obj
+*.sdf
+*.ipch
+*.opensdf
+*.log
+*.vcxproj.user
+*.vcxproj.filters
+
+# Build
+Debug/
+Release/
+
+# Other
+*.cache
+packages/
